@@ -1,0 +1,42 @@
+body {
+    margin: 0;
+    text-align: center;
+}
+
+input {
+width: 80px;
+height: 50px;
+background: #6943fe;
+border-style: solid;
+color: white;
+}
+
+.hero {
+    background: #6943fe;
+    color: white;
+    padding: 30px;
+    
+}
+
+div.main {
+    background: #f4f4f4;
+    padding: 10px
+}
+div.section {
+    text-align: center;
+    padding: 5px;
+    background: white;
+}
+div.section1 {
+    text-align: center;
+    padding: 5px;
+    background: white;
+    
+    
+}
+div.section2 {
+    text-align: center;
+    padding: 5px;
+    background: white;
+    
+}
